@@ -1,0 +1,23 @@
+body{
+	background-color: blanchedalmond;
+}
+h1{
+	text-align: center;
+	color: red;
+}
+.p1{
+	color: palevioletred;
+}
+p{
+	text-align: right;
+	color: palevioletred;
+}
+.h2{
+	background-color: orangered;
+}
+.h3{
+	background-color: black;
+}
+button{
+	background-color: gold;
+}
